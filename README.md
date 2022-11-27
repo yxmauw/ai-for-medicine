@@ -1,2 +1,3 @@
-# ai-for-medicine
-AI for Medicine Specialisation @ Coursera notebooks and references
+# [AI for Medicine](https://www.coursera.org/specializations/ai-for-medicine) Specialisation @ Coursera 
+
+* notebooks and references
