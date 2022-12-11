@@ -12,3 +12,5 @@
 
 ### Segmentation
 * Involves defining boundaries of target in image
+* points in 2D space called pixels
+* points in 3D space called voxels
