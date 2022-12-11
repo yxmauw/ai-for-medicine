@@ -14,3 +14,6 @@
 * Involves defining boundaries of target in image
 * points in 2D space called pixels
 * points in 3D space called voxels
+
+### Model training for segmentation task
+* Use _Soft Dice Loss_ function for optimisation
