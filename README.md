@@ -21,3 +21,5 @@
 ## AI For Prognosis
 * Survival estimation: Kaplan-Meier estimator
 * Cumulative Hazard estimation: Nelson-Aalen estimator
+* Evaluation of survival models
+  * Harrell's C-index
