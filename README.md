@@ -23,3 +23,4 @@
 * Cumulative Hazard estimation: Nelson-Aalen estimator
 * Evaluation of survival models
   * Harrell's C-index
+  * Permissible pairs for survival data follows principle of able to compare which patient had the worse outcome based on survival period. If unable to compare in certainty e.g. censored time period, then not permissible pair
