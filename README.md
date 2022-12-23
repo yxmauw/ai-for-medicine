@@ -17,3 +17,7 @@
 
 ### Model training for segmentation task
 * Use _Soft Dice Loss_ function for optimisation
+
+## AI For Prognosis
+* Survival estimation: Kaplan-Meier estimator
+* Cumulative Hazard estimation: Nelson-Aalen estimator
