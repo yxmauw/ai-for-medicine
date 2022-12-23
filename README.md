@@ -24,3 +24,10 @@
 * Evaluation of survival models
   * Harrell's C-index
   * Permissible pairs for survival data follows principle of able to compare which patient had the worse outcome based on survival period. If unable to compare in certainty e.g. censored time period, then not permissible pair
+
+# Citations
+* [SHAP library](https://github.com/slundberg/shap) and [notebook](https://slundberg.github.io/shap/notebooks/NHANES%20I%20Survival%20Model.html)
+* [Lifelines library](https://lifelines.readthedocs.io/en/latest/)
+* [COX model](https://www.jstor.org/stable/2985181?seq=1)
+* [Random survival forest](https://arxiv.org/pdf/0811.1645.pdf)
+* [Harrell C-Index](https://www.ncbi.nlm.nih.gov/pubmed/7069920)
