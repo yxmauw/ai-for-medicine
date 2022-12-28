@@ -31,3 +31,6 @@
 * [COX model](https://www.jstor.org/stable/2985181?seq=1)
 * [Random survival forest](https://arxiv.org/pdf/0811.1645.pdf)
 * [Harrell C-Index](https://www.ncbi.nlm.nih.gov/pubmed/7069920)
+
+# Uesful Resources
+* SNOMED CT: paid resource for searching medical terminology synonyms
