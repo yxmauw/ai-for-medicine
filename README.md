@@ -38,3 +38,4 @@
 
 # Uesful Resources
 * SNOMED CT: paid resource for searching medical terminology synonyms
+* [MTSamples](https://www.mtsamples.com/): Collection of Transcribed Medical Transcription Sample Reports and Examples
