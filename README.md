@@ -25,6 +25,10 @@
   * Harrell's C-index
   * Permissible pairs for survival data follows principle of able to compare which patient had the worse outcome based on survival period. If unable to compare in certainty e.g. censored time period, then not permissible pair
 
+## AI For Treatment
+* Evaluation of model performance
+ * Shapley method can assess feature importance despite correlated features
+
 # Citations
 * [SHAP library](https://github.com/slundberg/shap) and [notebook](https://slundberg.github.io/shap/notebooks/NHANES%20I%20Survival%20Model.html)
 * [Lifelines library](https://lifelines.readthedocs.io/en/latest/)
